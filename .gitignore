@@ -1,0 +1,4 @@
+.creds
+.venv/
+trmnl-firmware/
+*.pyc
