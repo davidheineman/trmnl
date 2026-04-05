@@ -1,4 +1,4 @@
-# trmnl
+## trmnl python client
 
 a humble python sdk for [trmnl](https://usetrmnl.com). based on [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware).
 
@@ -14,7 +14,7 @@ export TRMNL_PLUGIN_UUID="..."
 export TRMNL_MAC_ADDRESS="..."
 ```
 
-## usage
+### usage
 
 ```python
 from trmnl import TRMNL
