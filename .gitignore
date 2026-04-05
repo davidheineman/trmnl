@@ -1,4 +1,10 @@
 .creds
 .venv/
 trmnl-firmware/
+__pycache__/
 *.pyc
+*.egg-info/
+dist/
+build/
+hi_screen.bmp
+trmnl-screen-*
